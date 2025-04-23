@@ -32,10 +32,10 @@ createMarkerGuis()
 createMainGui()
 
 SetTimer, update, 10000, 1000
-SetTimer, relocateWindows, 50, 1000 ;at a value of 10 it relocates seamlessly
+SetTimer, relocateWindows, 10, 1000 ;at a value of 10 it relocates seamlessly
 setTimer, markPositions, 50, 1000
 SetTimer, updateButtons, 200
-SetTimer, crosshairs, 100, 1000
+SetTimer, crosshairs, 10, 1000
 SetTimer, crosshairs, off, 1000
 SetTimer, tooltipTimer, 200, 1000
 SetTimer, tooltipTimer, off
