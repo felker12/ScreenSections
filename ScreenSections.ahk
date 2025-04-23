@@ -1,6 +1,5 @@
 ﻿;Creator:  Felk / Klef
 ;Purpose: Draw Rectangles on the screen that can be clicked through
-;Why? I can
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
